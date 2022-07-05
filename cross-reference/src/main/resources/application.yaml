@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: crossreference
+    password: crossreference
+    url: jdbc:mysql://localhost:3306/crossreference
+    
